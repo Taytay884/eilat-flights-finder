@@ -9,10 +9,6 @@ class Routes {
     }
 
     init() {
-        this.app.get('/', (req: Request, res: Response): Object => {
-            return res.send(__dirname + '/frontend/dist');
-        });
-
         // ################## Flight To Eilat ##################
         // Valid request: http://localhost:3001/flight-to-eilat?startDate=12/25/2019&endDate=12/26/2019
         this.app.get('/flight-to-eilat', (req: Request, res: Response): any => {

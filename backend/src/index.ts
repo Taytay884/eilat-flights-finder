@@ -6,7 +6,7 @@ const app: Application = express();
 
 app.use(express.json());
 
-app.use(express.static(path.join(__dirname, 'front')));
+app.use(express.static(path.join(__dirname, '../front')));
 new Routes(app);
 
 const PORT: any = process.env.PORT || 3000;
