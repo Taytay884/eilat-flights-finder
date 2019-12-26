@@ -16,7 +16,6 @@ class Routes {
         // ################## Flight To Eilat ##################
         // Valid request: http://localhost:3001/flight-to-eilat?startDate=12/25/2019&endDate=12/26/2019
         this.app.get('/flight-to-eilat', (req: Request, res: Response): any => {
-            console.log('Request', req);
             if (!req.query || !req.query.startDate || !req.query.endDate) {
                 return res.json({
                     status: 'error',

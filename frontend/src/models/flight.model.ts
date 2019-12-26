@@ -17,7 +17,6 @@ export class FlightModel {
         const year = date.substr(0, 4);
         const month = date.substr(4, 2);
         const day = date.substr(6, 2);
-        console.log(`${month}/${day}/${year}`);
         return new Date(`${month}/${day}/${year}`);
     }
 
