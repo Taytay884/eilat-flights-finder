@@ -1,0 +1,602 @@
+[
+  {
+    "price": 89,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 1845,
+    "date": "20191123",
+    "arrivalTime": "21:30",
+    "departureTime": "20:30",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 89,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 817,
+    "date": "20191123",
+    "arrivalTime": "17:00",
+    "departureTime": "16:00",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 109,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 811,
+    "date": "20191123",
+    "arrivalTime": "19:45",
+    "departureTime": "18:45",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 109,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 841,
+    "date": "20191123",
+    "arrivalTime": "13:30",
+    "departureTime": "12:30",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 109,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 1807,
+    "date": "20191123",
+    "arrivalTime": "22:30",
+    "departureTime": "21:30",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 109,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 5801,
+    "date": "20191123",
+    "arrivalTime": "15:00",
+    "departureTime": "14:00",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 159,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 825,
+    "date": "20191125",
+    "arrivalTime": "16:05",
+    "departureTime": "15:05",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 159,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 801,
+    "date": "20191119",
+    "arrivalTime": "07:30",
+    "departureTime": "06:30",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 159,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 825,
+    "date": "20191119",
+    "arrivalTime": "16:30",
+    "departureTime": "15:30",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 189,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 2821,
+    "date": "20191124",
+    "arrivalTime": "07:30",
+    "departureTime": "06:30",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 189,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 825,
+    "date": "20191122",
+    "arrivalTime": "14:35",
+    "departureTime": "13:35",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 189,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 2823,
+    "date": "20191120",
+    "arrivalTime": "16:00",
+    "departureTime": "15:00",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 199,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 1807,
+    "date": "20191125",
+    "arrivalTime": "22:00",
+    "departureTime": "21:00",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 199,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 5803,
+    "date": "20191120",
+    "arrivalTime": "13:25",
+    "departureTime": "12:25",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 199,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 1807,
+    "date": "20191120",
+    "arrivalTime": "22:00",
+    "departureTime": "21:00",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 199,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 1805,
+    "date": "20191124",
+    "arrivalTime": "22:15",
+    "departureTime": "21:15",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 209,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 2821,
+    "date": "20191122",
+    "arrivalTime": "11:00",
+    "departureTime": "10:00",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 219,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 801,
+    "date": "20191120",
+    "arrivalTime": "07:40",
+    "departureTime": "06:40",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 219,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 2821,
+    "date": "20191121",
+    "arrivalTime": "07:30",
+    "departureTime": "06:30",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 219,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 5803,
+    "date": "20191125",
+    "arrivalTime": "13:40",
+    "departureTime": "12:40",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 219,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 811,
+    "date": "20191119",
+    "arrivalTime": "12:30",
+    "departureTime": "11:30",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 219,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 1815,
+    "date": "20191119",
+    "arrivalTime": "15:30",
+    "departureTime": "14:30",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 219,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 1843,
+    "date": "20191121",
+    "arrivalTime": "21:00",
+    "departureTime": "20:00",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 219,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 1807,
+    "date": "20191119",
+    "arrivalTime": "22:00",
+    "departureTime": "21:00",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 219,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 803,
+    "date": "20191122",
+    "arrivalTime": "12:40",
+    "departureTime": "11:40",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 219,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 1815,
+    "date": "20191120",
+    "arrivalTime": "15:00",
+    "departureTime": "14:00",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 229,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 1805,
+    "date": "20191125",
+    "arrivalTime": "20:30",
+    "departureTime": "19:30",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 229,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 841,
+    "date": "20191125",
+    "arrivalTime": "11:30",
+    "departureTime": "10:30",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 239,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 1815,
+    "date": "20191125",
+    "arrivalTime": "15:00",
+    "departureTime": "14:00",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 239,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 801,
+    "date": "20191121",
+    "arrivalTime": "08:00",
+    "departureTime": "07:00",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 259,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 801,
+    "date": "20191122",
+    "arrivalTime": "09:30",
+    "departureTime": "08:30",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 259,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 827,
+    "date": "20191125",
+    "arrivalTime": "18:10",
+    "departureTime": "17:10",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 259,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 827,
+    "date": "20191122",
+    "arrivalTime": "15:35",
+    "departureTime": "14:35",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 269,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 801,
+    "date": "20191125",
+    "arrivalTime": "07:30",
+    "departureTime": "06:30",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 269,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 803,
+    "date": "20191124",
+    "arrivalTime": "09:00",
+    "departureTime": "08:00",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 299,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 1817,
+    "date": "20191124",
+    "arrivalTime": "19:10",
+    "departureTime": "18:10",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 299,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 2821,
+    "date": "20191120",
+    "arrivalTime": "10:00",
+    "departureTime": "09:00",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 299,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 807,
+    "date": "20191125",
+    "arrivalTime": "10:30",
+    "departureTime": "09:30",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 299,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 807,
+    "date": "20191120",
+    "arrivalTime": "10:40",
+    "departureTime": "09:40",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 299,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 807,
+    "date": "20191119",
+    "arrivalTime": "10:55",
+    "departureTime": "09:55",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 299,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 1841,
+    "date": "20191120",
+    "arrivalTime": "09:30",
+    "departureTime": "08:30",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 299,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 2823,
+    "date": "20191121",
+    "arrivalTime": "09:00",
+    "departureTime": "08:00",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 359,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 1801,
+    "date": "20191121",
+    "arrivalTime": "19:55",
+    "departureTime": "18:55",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 372,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 843,
+    "date": "20191124",
+    "arrivalTime": "11:00",
+    "departureTime": "10:00",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 372,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 815,
+    "date": "20191124",
+    "arrivalTime": "13:00",
+    "departureTime": "12:00",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 372,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 823,
+    "date": "20191124",
+    "arrivalTime": "13:25",
+    "departureTime": "12:25",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 372,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 819,
+    "date": "20191124",
+    "arrivalTime": "14:00",
+    "departureTime": "13:00",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 372,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 821,
+    "date": "20191124",
+    "arrivalTime": "16:00",
+    "departureTime": "15:00",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 372,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 821,
+    "date": "20191121",
+    "arrivalTime": "16:45",
+    "departureTime": "15:45",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 372,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 827,
+    "date": "20191120",
+    "arrivalTime": "18:15",
+    "departureTime": "17:15",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 372,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 805,
+    "date": "20191121",
+    "arrivalTime": "10:20",
+    "departureTime": "09:20",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 372,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 803,
+    "date": "20191125",
+    "arrivalTime": "09:00",
+    "departureTime": "08:00",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 372,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 807,
+    "date": "20191121",
+    "arrivalTime": "11:20",
+    "departureTime": "10:20",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 372,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 803,
+    "date": "20191119",
+    "arrivalTime": "09:00",
+    "departureTime": "08:00",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 372,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 1805,
+    "date": "20191120",
+    "arrivalTime": "20:30",
+    "departureTime": "19:30",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 372,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 827,
+    "date": "20191119",
+    "arrivalTime": "18:00",
+    "departureTime": "17:00",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 372,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 813,
+    "date": "20191121",
+    "arrivalTime": "13:35",
+    "departureTime": "12:35",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 372,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 819,
+    "date": "20191121",
+    "arrivalTime": "14:30",
+    "departureTime": "13:30",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 372,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 811,
+    "date": "20191124",
+    "arrivalTime": "10:00",
+    "departureTime": "09:00",
+    "carrier": "Arkia"
+  },
+  {
+    "price": 372,
+    "destination": "אילת רמון",
+    "departure": "נתבג",
+    "flightNumber": 1805,
+    "date": "20191119",
+    "arrivalTime": "20:30",
+    "departureTime": "19:30",
+    "carrier": "Arkia"
+  }
+]

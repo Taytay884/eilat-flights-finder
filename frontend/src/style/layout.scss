@@ -1,0 +1,22 @@
+.page-container {
+  width: 100vw;
+  min-height: 100vh;
+}
+
+header {
+  height: #{$main-header-height};
+  .container {
+    @extend %flex-row-space-between-center;
+    padding: 10px;
+    height: 100%;
+    background-color: $main-header-color;
+  }
+}
+
+.page-outlet {
+  height: calc(100% - #{$main-header-height});
+}
+
+.side-menu-container {
+  display: none;
+}

@@ -1,0 +1,47 @@
+.flight-page {
+  height: 100%;
+  padding: 20px;
+  @extend %flex-column-center;
+
+  .form-container {
+    @extend %flex-column-center;
+    margin-bottom: 10px;
+
+    .explanation-container {
+      margin-bottom: 5px;
+    }
+
+    .daterange-container {
+      margin-bottom: 10px;
+    }
+  }
+
+  main {
+    width: 100%;
+  }
+
+  .results {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+  }
+  .results-container-to-eilat, .results-container-to-natbag {
+    margin: 10px;
+    .results-table {
+      border: none;
+    }
+    .results-header {
+      background-color: darkkhaki;
+      th {
+        padding: 10px 5px;
+      }
+    }
+    .results-body {
+      background-color: whitesmoke;
+      td {
+        padding: 10px 5px;
+      }
+    }
+  }
+}
